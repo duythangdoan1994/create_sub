@@ -1,0 +1,1 @@
+Chuyển tất cả file video vào thư mục my_video sau đó chạy python detec.py
